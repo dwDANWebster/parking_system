@@ -88,7 +88,7 @@ parking_system/
 
 1. **克隆代码库**
    ```bash
-   git clone https://github.com/yourusername/parking_system.git
+   git clone https://github.com/dwDANWebster/parking_system.git
    cd parking_system
    ```
 
