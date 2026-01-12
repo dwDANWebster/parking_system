@@ -219,8 +219,8 @@ MIT License - 详见LICENSE文件
 ## 联系方式
 
 如有问题或建议，请联系：
-- 邮箱: your.email@example.com
-- GitHub: https://github.com/yourusername
+- 邮箱: 1513749464@qq.com
+- GitHub: https://github.com/dwDANWebster
 
 ---
 
